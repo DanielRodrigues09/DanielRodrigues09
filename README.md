@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Fala, dev! 👨‍💻 Sou Daniel um entusiasta do desenvolvimento web e sempre explorando novas tecnologias.</p>
+<p align="left">Fala dev! 👨‍💻 Sou Daniel um entusiasta do desenvolvimento web e sempre explorando novas tecnologias.</p>
 
 ###
 
